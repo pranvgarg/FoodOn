@@ -1,6 +1,6 @@
 # FoodOn
 
-Read PDF
+![Screenshot 2021-07-07 at 1 20 15 PM](https://user-images.githubusercontent.com/70699475/124721359-ad0d1880-df26-11eb-8d01-4d3c92c9db7e.png)
 Instruction Guide :
 Clone repository
 
